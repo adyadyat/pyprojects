@@ -5,7 +5,8 @@ def quad(a):
 		print(res,end="")
 		print(" ",end="")
 	print()
-quad(10)
+a=int(input())
+quad(5)
 
 def factorial(a):
 	res=1
@@ -14,4 +15,5 @@ def factorial(a):
 		print(res,end="")
 		print(" ",end="")
 	print()
-factorial(10)
+a=int(input())
+factorial(a)

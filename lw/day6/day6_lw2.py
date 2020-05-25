@@ -11,9 +11,5 @@ while stop:
 	else:
 		d += 1
 	if n == d:
-		print("prime")
+		print(d, end="")
 		stop = False
-	if n == 1:
-		print("not prime")
-		stop = False
-print(c)
