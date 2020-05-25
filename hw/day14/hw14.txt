@@ -1,0 +1,15 @@
+Write a function using recursion that takes in a string and returns a reversed copy of the string.The only string operation you are allowed to use is string concatenation. 
+21:38
+Напишите функцию, использующую рекурсию, которая принимает строку и возвращает обратную строку. Единственная строковая операция, которую вам разрешено использовать, - это конкатенация строк. 
+21:38
+Writeafunctionusingrecursiontocheckifanumbernisprime 
+21:39
+recursion factorial 
+21:40
+
+21:46
+
+21:49
+prime number 
+22:04
+Выведите все простые делители этого числа в порядке неубывания с учетом кратности 
