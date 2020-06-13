@@ -26,3 +26,5 @@ populations.clear()
 
 print(cities)
 print(populations)
+
+# Все перечисленные методы не возвращают значения
